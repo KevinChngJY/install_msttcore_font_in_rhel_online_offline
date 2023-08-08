@@ -1,0 +1,1 @@
+# install_msttcore_font_in_rhel_online_offline
